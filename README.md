@@ -4,7 +4,7 @@
 [![Follow me](https://img.shields.io/github/followers/Dyarven?style=social)](https://github.com/Dyarven)
 [![License](https://img.shields.io/github/license/Dyarven/nmap_batch_scan)](https://github.com/Dyarven/haproxy-socat-swiss-knife/blob/main/LICENSE)
 
-Bash script made to quickly check for open ports on a list of IPs provided via text file with multithreading support.
+Bash script with nmap made to quickly check for open ports on a list of IPs provided via text file with multithreading support and a progression bar.
 
 ## Requirements
 - NMAP and a  dream
