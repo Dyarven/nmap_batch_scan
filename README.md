@@ -14,6 +14,7 @@ Bash script made to quickly check for open ports on a list of IPs provided via t
 ### Run the Script
 ```bash
 # Run as sudo (some commands require root to make changes)
-bash nmap_batch_scanner.sh
+# Provide the file, the port to scan and the cpu threads your machine can handle:
+bash batch_scanner.sh targets.file 443 8
 ```
 
