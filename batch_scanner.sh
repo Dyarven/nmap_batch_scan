@@ -19,4 +19,5 @@ pv -l -s "$total_ips" "$filename" | xargs -L 100 -P "$threads" -I {} sh -c '
 
 cat "$temp_dir"/* >> "$outfile"
 rm -rf "$temp_dir"
-echo "Scan completed. Results saved to $outfile"
+
+echo "Finished scanning, results saved to: $outfile"
