@@ -1,4 +1,4 @@
-# Nmap batch scanner
+# Nmap Batch Scanner
 
 [![Star this repo](https://img.shields.io/github/stars/Dyarven/nmap_batch_scan?style=social)](https://github.com/Dyarven/haproxy-socat-swiss-knife/stargazers)
 [![Follow me](https://img.shields.io/github/followers/Dyarven?style=social)](https://github.com/Dyarven)
