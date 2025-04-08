@@ -7,7 +7,7 @@
 Bash script with nmap made to quickly check for open ports on a list of IPs provided via text file with multithreading support and a progression bar.
 
 ## Requirements
-- NMAP and a  dream
+- NMAP and a  dream (or a necessity to check for open ports)
 
 
 ## Usage
