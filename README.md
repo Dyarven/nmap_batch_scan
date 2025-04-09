@@ -4,7 +4,7 @@
 [![Follow me](https://img.shields.io/github/followers/Dyarven?style=social)](https://github.com/Dyarven)
 [![License](https://img.shields.io/github/license/Dyarven/bash-scripts)](https://github.com/Dyarven/bash-scripts/blob/main/LICENSE)
 
-Bash scripts with nmap made to quickly check for open ports on a list of IPs provided via text file with multithreading support and a progression bar.
+Bash scripts for task automation, network discovery... etc. Also contains some QoL stuff and personal projects.
 
 ## Nmap batch scanner
 Bash script with nmap made to quickly check for open ports on a list of IPs provided via text file with multithreading support and a progression bar.
