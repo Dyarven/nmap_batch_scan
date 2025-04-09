@@ -1,4 +1,4 @@
-# # 📗 Bash scripts
+# :green_book: Bash scripts
 
 [![Star this repo](https://img.shields.io/github/stars/Dyarven/bash-scripts?style=social)](https://github.com/Dyarvenbash-scripts/stargazers)
 [![Follow me](https://img.shields.io/github/followers/Dyarven?style=social)](https://github.com/Dyarven)
