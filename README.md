@@ -1,6 +1,6 @@
 # :green_book: Bash scripts
 
-[![Star this repo](https://img.shields.io/github/stars/Dyarven/bash-scripts?style=social)](https://github.com/Dyarvenbash-scripts/stargazers)
+[![Star this repo](https://img.shields.io/github/stars/Dyarven/bash-scripts?style=social)](https://github.com/Dyarven/bash-scripts/stargazers)
 [![Follow me](https://img.shields.io/github/followers/Dyarven?style=social)](https://github.com/Dyarven)
 [![License](https://img.shields.io/github/license/Dyarven/bash-scripts)](https://github.com/Dyarven/bash-scripts/blob/main/LICENSE)
 
