@@ -23,11 +23,11 @@ Before setting this up check your postgresql log rotation config. This script is
 
 ### Run the Script
 ```sql
-# Check your log rotation config beforehand to see if it's set up correctly
+# Check your log rotation config beforehand to see if it's set up correctly:
 SELECT name, setting FROM pg_settings WHERE name LIKE 'log_%';
 ```
 ```bash
-# Configure a crontab for postgresql defining the frequency such as
+# Configure a crontab for postgresql defining the frequency such as:
 30 04  *   *   *     /var/lib/postgresql/scripts/postgresql_log_archiver.sh
 
 ```
