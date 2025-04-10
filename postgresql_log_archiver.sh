@@ -1,6 +1,4 @@
 #!/bin/bash
-# Antes de usar este script de arquivado, comprobar a política de rotación de logs definida no motor de postgresql con:
-# SELECT name, setting FROM pg_settings WHERE name LIKE 'log_%';
 
 set -eo pipefail        # Detén a execución se falla algo no script
 
