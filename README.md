@@ -22,6 +22,10 @@ Keep postgresql log files clean and tidy. Archives and compresses files that are
 Before setting this up check your postgresql log rotation config. This script is nice to have if you use a tool like Graylog where logs local to the machine are only accessed during disaster recovery or post disaster forensics, so you don't get lost in logs.
 
 ### Run the Script
+```sql
+# Check your log rotation config
+SELECT name, setting FROM pg_settings WHERE name LIKE 'log_%';
+```
 ```bash
 # Configure a crontab for postgresql defining the frequency such as
 30 04  *   *   *     /var/lib/postgresql/scripts/postgresql_log_archiver.sh
