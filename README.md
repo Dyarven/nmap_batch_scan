@@ -17,6 +17,7 @@ Made with nmap to quickly check for open ports on a list of IPs provided via tex
 ```
 
 
+
 ## PostgreSQL log archiver
 Keep postgresql log files clean and tidy. Archives and compresses files that are two months old or more, by month-year so that you keep the last 60 days of logs easily accessible and the rest are stored efficiently.
 Before setting this up check your postgresql log rotation config. 
