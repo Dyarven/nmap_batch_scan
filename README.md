@@ -23,7 +23,7 @@ Before setting this up check your postgresql log rotation config. This script is
 
 ### Run the Script
 ```sql
-# Check your log rotation config
+# Check your log rotation config beforehand to see if it's set up correctly
 SELECT name, setting FROM pg_settings WHERE name LIKE 'log_%';
 ```
 ```bash
